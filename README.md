@@ -20,7 +20,7 @@ GitHub
 Reach me
 
 LinkedIn
-Email
+Email: vashikagupta31@gmail.com
 Portfolio
 
 <!--
