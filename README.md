@@ -19,9 +19,9 @@ GitHub
 
 Reach me
 
-LinkedIn
+LinkedIn: https://www.linkedin.com/in/vashikagupta/
 Email: vashikagupta31@gmail.com
-Portfolio
+Portfolio: 
 
 <!--
 **vashikagupta31-star/vashikagupta31-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
